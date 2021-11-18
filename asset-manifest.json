@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TNS-Beta18-2/static/css/main.42cfb998.chunk.css",
-    "main.js": "/TNS-Beta18-2/static/js/main.7ee7c8ad.chunk.js",
-    "main.js.map": "/TNS-Beta18-2/static/js/main.7ee7c8ad.chunk.js.map",
+    "main.js": "/TNS-Beta18-2/static/js/main.afc04f20.chunk.js",
+    "main.js.map": "/TNS-Beta18-2/static/js/main.afc04f20.chunk.js.map",
     "runtime-main.js": "/TNS-Beta18-2/static/js/runtime-main.64735f94.js",
     "runtime-main.js.map": "/TNS-Beta18-2/static/js/runtime-main.64735f94.js.map",
     "static/css/2.e24d04b0.chunk.css": "/TNS-Beta18-2/static/css/2.e24d04b0.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.e24d04b0.chunk.css",
     "static/js/2.833428da.chunk.js",
     "static/css/main.42cfb998.chunk.css",
-    "static/js/main.7ee7c8ad.chunk.js"
+    "static/js/main.afc04f20.chunk.js"
   ]
 }
