@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/vilavivida/TNS-Beta18-2/static/css/main.f9b3a5d6.chunk.css",
+    "main.js": "/vilavivida/TNS-Beta18-2/static/js/main.2259afdc.chunk.js",
+    "main.js.map": "/vilavivida/TNS-Beta18-2/static/js/main.2259afdc.chunk.js.map",
+    "runtime-main.js": "/vilavivida/TNS-Beta18-2/static/js/runtime-main.d45d72b5.js",
+    "runtime-main.js.map": "/vilavivida/TNS-Beta18-2/static/js/runtime-main.d45d72b5.js.map",
+    "static/css/2.e24d04b0.chunk.css": "/vilavivida/TNS-Beta18-2/static/css/2.e24d04b0.chunk.css",
+    "static/js/2.0f8ffcab.chunk.js": "/vilavivida/TNS-Beta18-2/static/js/2.0f8ffcab.chunk.js",
+    "static/js/2.0f8ffcab.chunk.js.map": "/vilavivida/TNS-Beta18-2/static/js/2.0f8ffcab.chunk.js.map",
+    "static/js/3.a70ae73e.chunk.js": "/vilavivida/TNS-Beta18-2/static/js/3.a70ae73e.chunk.js",
+    "static/js/3.a70ae73e.chunk.js.map": "/vilavivida/TNS-Beta18-2/static/js/3.a70ae73e.chunk.js.map",
+    "index.html": "/vilavivida/TNS-Beta18-2/index.html",
+    "static/css/2.e24d04b0.chunk.css.map": "/vilavivida/TNS-Beta18-2/static/css/2.e24d04b0.chunk.css.map",
+    "static/css/main.f9b3a5d6.chunk.css.map": "/vilavivida/TNS-Beta18-2/static/css/main.f9b3a5d6.chunk.css.map",
+    "static/js/2.0f8ffcab.chunk.js.LICENSE.txt": "/vilavivida/TNS-Beta18-2/static/js/2.0f8ffcab.chunk.js.LICENSE.txt",
+    "static/media/city-1.jpg": "/vilavivida/TNS-Beta18-2/static/media/city-1.8d5b3e7f.jpg",
+    "static/media/city-2.jpg": "/vilavivida/TNS-Beta18-2/static/media/city-2.7aef6979.jpg",
+    "static/media/city-3.jpg": "/vilavivida/TNS-Beta18-2/static/media/city-3.9f901497.jpg",
+    "static/media/index.css": "/vilavivida/TNS-Beta18-2/static/media/search-background.4f09cfba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d45d72b5.js",
+    "static/css/2.e24d04b0.chunk.css",
+    "static/js/2.0f8ffcab.chunk.js",
+    "static/css/main.f9b3a5d6.chunk.css",
+    "static/js/main.2259afdc.chunk.js"
+  ]
+}
